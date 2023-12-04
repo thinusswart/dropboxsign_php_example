@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dropbox/sign": "^1.2.0"
+    },
+    "minimum-stability": "dev"
+}
